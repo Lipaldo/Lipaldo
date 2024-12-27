@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006663&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9FC131&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00B3AD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Felipe+Maciel;Graduando+em+Sistemas+de+Informção;Universidade+Federal+da+Amazônia!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=005C53&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Felipe+Maciel;Graduando+em+Sistemas+de+Informção;Universidade+Federal+da+Amazônia!+:%29)](https://git.io/typing-svg) 
 
 
 ###
@@ -26,6 +26,9 @@
 </div>
 
 ###
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=005C53&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://www.instagram.com/lipao_maciel/profilecard/?igsh=YmV6NjZ4ZHhydXN2" target="_blank">
