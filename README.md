@@ -1,4 +1,7 @@
-<h2 align="left">Olá, meu nome é Felipe e sou graduando em Sistemas de Informação na UFRA (Universidade Federal Rural da Amazônia</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006663&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00B3AD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Felipe+Maciel;Graduando+em+Sistemas+de+Informção;Universidade+Federal+da+Amazônia!+:%29)](https://git.io/typing-svg) 
+
 
 ###
 
